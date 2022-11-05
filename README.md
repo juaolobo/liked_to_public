@@ -2,4 +2,4 @@ Fun one day project I coded because I was bored a co worker asked to listen to m
 
 Using requests and Spotify's web API.
 
-Documentation for creating an APP on Spotify developer platform and obtaining CLIENT_ID and CLIENT_SECRET can be found [here](https://developer.spotify.com/documentation/general/guides/authorization/app-settings/).
+Documentation for creating an APP on Spotify developer's platform and obtaining CLIENT_ID and CLIENT_SECRET can be found [here](https://developer.spotify.com/documentation/general/guides/authorization/app-settings/).
